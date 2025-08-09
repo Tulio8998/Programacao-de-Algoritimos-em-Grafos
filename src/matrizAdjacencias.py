@@ -33,7 +33,7 @@ class MatrizAdjacencias:
         viz = []
         for j in range(self.numVertices):
             if self.matriz[v][j] != 0:
-                viz.append(j)
+                viz.append((j, self.matriz[v][j]))
         return viz
     
     # retorna o grau (saida) de um vertice:

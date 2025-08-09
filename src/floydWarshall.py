@@ -11,11 +11,17 @@ def floyd_warshall(grafo):
             if i == j:
                 dist[i][j] = 0
                 prev[i][j] = i
-            else:
-                for vizinho, peso in grafo.vizinhos(i):
+            elif grafo.possuiAresta(i, j):
+                peso = 0
+                for vizinho, w in grafo.vizinhos(i):
                     if vizinho == j:
-                        dist[i][j] = peso
-                        prev[i][j] = i
+                        peso = w
+                        break
+                dist[i][j] = peso
+                prev[i][j] = i
+            else:
+                dist[i][j] = float('inf')
+                prev[i][j] = None
 
     for k in range(n):
         for i in range(n):

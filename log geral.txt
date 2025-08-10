@@ -1,0 +1,542 @@
+--- Log para o algoritmo de Bellman-Ford ---
+
+Algoritmo de Bellman-Ford - Execução 1
+Arquivo: toy.txt
+Origem: 1
+Destino: 2
+Caminho mínimo: 1 -> 0 -> 2
+Custo: 3
+Tempo execução: 0.000000s
+Memória utilizada: 0.23 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 2
+Arquivo: toy.txt
+Origem: 0
+Destino: 2
+Caminho mínimo: 0 -> 2
+Custo: 1
+Tempo execução: 0.000000s
+Memória utilizada: 0.19 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 3
+Arquivo: toy.txt
+Origem: 0
+Destino: 1
+Caminho mínimo: None
+Custo: Não há caminho
+Tempo execução: 0.000000s
+Memória utilizada: 0.19 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 4
+Arquivo: toy.txt
+Origem: 0
+Destino: 1
+Caminho mínimo: None
+Custo: Não há caminho
+Tempo execução: 0.000000s
+Memória utilizada: 0.19 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 5
+Arquivo: toy.txt
+Origem: 1
+Destino: 3
+Caminho mínimo: 1 -> 0 -> 3
+Custo: 5
+Tempo execução: 0.000000s
+Memória utilizada: 0.19 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 6
+Arquivo: toy.txt
+Origem: 4
+Destino: 0
+Caminho mínimo: None
+Custo: Não há caminho
+Tempo execução: 0.000000s
+Memória utilizada: 0.19 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 7
+Arquivo: toy.txt
+Origem: 3
+Destino: 0
+Caminho mínimo: None
+Custo: Não há caminho
+Tempo execução: 0.000000s
+Memória utilizada: 0.19 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 8
+Arquivo: toy.txt
+Origem: 2
+Destino: 0
+Caminho mínimo: None
+Custo: Não há caminho
+Tempo execução: 0.000000s
+Memória utilizada: 0.19 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 9
+Arquivo: toy.txt
+Origem: 3
+Destino: 2
+Caminho mínimo: None
+Custo: Não há caminho
+Tempo execução: 0.000000s
+Memória utilizada: 0.19 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 10
+Arquivo: toy.txt
+Origem: 2
+Destino: 4
+Caminho mínimo: None
+Custo: Não há caminho
+Tempo execução: 0.000000s
+Memória utilizada: 0.19 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 1
+Arquivo: facebook_combined.txt
+Origem: 1936
+Destino: 3063
+Caminho mínimo: 1936 -> 1911 -> 57 -> 1683 -> 3063
+Custo: 4
+Tempo execução: 0.314030s
+Memória utilizada: 70.47 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 2
+Arquivo: facebook_combined.txt
+Origem: 1917
+Destino: 1054
+Caminho mínimo: 1917 -> 1940 -> 1576 -> 1665 -> 1054
+Custo: 4
+Tempo execução: 0.240905s
+Memória utilizada: 70.78 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 3
+Arquivo: facebook_combined.txt
+Origem: 557
+Destino: 1256
+Caminho mínimo: 557 -> 347 -> 106 -> 1256
+Custo: 3
+Tempo execução: 0.266422s
+Memória utilizada: 70.02 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 4
+Arquivo: facebook_combined.txt
+Origem: 3330
+Destino: 3814
+Caminho mínimo: 3330 -> 1404 -> 106 -> 1084 -> 3436 -> 3814
+Custo: 5
+Tempo execução: 0.318590s
+Memória utilizada: 67.92 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 5
+Arquivo: facebook_combined.txt
+Origem: 3483
+Destino: 2684
+Caminho mínimo: 3483 -> 3500 -> 1084 -> 106 -> 1683 -> 2684
+Custo: 5
+Tempo execução: 0.325837s
+Memória utilizada: 72.38 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 6
+Arquivo: facebook_combined.txt
+Origem: 2752
+Destino: 3713
+Caminho mínimo: 2752 -> 1683 -> 106 -> 1084 -> 3436 -> 3713
+Custo: 5
+Tempo execução: 0.315159s
+Memória utilizada: 68.69 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 7
+Arquivo: facebook_combined.txt
+Origem: 3460
+Destino: 3011
+Caminho mínimo: 3460 -> 3494 -> 1084 -> 106 -> 1683 -> 3011
+Custo: 5
+Tempo execução: 0.326518s
+Memória utilizada: 71.97 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 8
+Arquivo: facebook_combined.txt
+Origem: 2725
+Destino: 1654
+Caminho mínimo: 2725 -> 1683 -> 106 -> 1654
+Custo: 3
+Tempo execução: 0.320938s
+Memória utilizada: 68.97 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 9
+Arquivo: facebook_combined.txt
+Origem: 1079
+Destino: 3595
+Caminho mínimo: 1079 -> 352 -> 566 -> 3436 -> 3595
+Custo: 4
+Tempo execução: 0.273825s
+Memória utilizada: 69.30 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 10
+Arquivo: facebook_combined.txt
+Origem: 1426
+Destino: 3870
+Caminho mínimo: 1426 -> 352 -> 566 -> 3436 -> 3870
+Custo: 4
+Tempo execução: 0.274323s
+Memória utilizada: 67.95 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 1
+Arquivo: rg300_768.txt
+Origem: 197
+Destino: 199
+Caminho mínimo: 197 -> 199
+Custo: 26
+Tempo execução: 0.012299s
+Memória utilizada: 13.73 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 2
+Arquivo: rg300_768.txt
+Origem: 137
+Destino: 91
+Caminho mínimo: 137 -> 142 -> 71 -> 114 -> 54 -> 99 -> 100 -> 101 -> 91
+Custo: 318
+Tempo execução: 0.012421s
+Memória utilizada: 13.11 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 3
+Arquivo: rg300_768.txt
+Origem: 238
+Destino: 76
+Caminho mínimo: 238 -> 239 -> 214 -> 29 -> 113 -> 53 -> 176 -> 75 -> 76
+Custo: 352
+Tempo execução: 0.014227s
+Memória utilizada: 13.88 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 4
+Arquivo: rg300_768.txt
+Origem: 220
+Destino: 40
+Caminho mínimo: 220 -> 106 -> 92 -> 233 -> 194 -> 195 -> 40
+Custo: 255
+Tempo execução: 0.013165s
+Memória utilizada: 13.47 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 5
+Arquivo: rg300_768.txt
+Origem: 48
+Destino: 142
+Caminho mínimo: 48 -> 97 -> 20 -> 130 -> 137 -> 142
+Custo: 103
+Tempo execução: 0.011154s
+Memória utilizada: 13.73 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 6
+Arquivo: rg300_768.txt
+Origem: 41
+Destino: 21
+Caminho mínimo: 41 -> 164 -> 15 -> 10 -> 156 -> 20 -> 21
+Custo: 181
+Tempo execução: 0.012173s
+Memória utilizada: 14.23 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 7
+Arquivo: rg300_768.txt
+Origem: 140
+Destino: 77
+Caminho mínimo: 140 -> 58 -> 59 -> 60 -> 103 -> 158 -> 159 -> 105 -> 77
+Custo: 431
+Tempo execução: 0.009003s
+Memória utilizada: 13.77 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 8
+Arquivo: rg300_768.txt
+Origem: 126
+Destino: 266
+Caminho mínimo: 126 -> 114 -> 150 -> 51 -> 162 -> 92 -> 15 -> 10 -> 266
+Custo: 216
+Tempo execução: 0.009182s
+Memória utilizada: 13.05 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 9
+Arquivo: rg300_768.txt
+Origem: 46
+Destino: 125
+Caminho mínimo: 46 -> 48 -> 97 -> 20 -> 130 -> 137 -> 142 -> 71 -> 35 -> 289 -> 192 -> 252 -> 124 -> 125
+Custo: 387
+Tempo execução: 0.013364s
+Memória utilizada: 13.36 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 10
+Arquivo: rg300_768.txt
+Origem: 122
+Destino: 58
+Caminho mínimo: 122 -> 198 -> 35 -> 226 -> 140 -> 58
+Custo: 75
+Tempo execução: 0.009161s
+Memória utilizada: 12.73 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 1
+Arquivo: rg300_4730.txt
+Origem: 198
+Destino: 28
+Caminho mínimo: 198 -> 127 -> 42 -> 193 -> 28
+Custo: 7
+Tempo execução: 0.010602s
+Memória utilizada: 6.92 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 2
+Arquivo: rg300_4730.txt
+Origem: 297
+Destino: 50
+Caminho mínimo: 297 -> 130 -> 295 -> 50
+Custo: 14
+Tempo execução: 0.009399s
+Memória utilizada: 5.66 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 3
+Arquivo: rg300_4730.txt
+Origem: 164
+Destino: 12
+Caminho mínimo: 164 -> 112 -> 193 -> 79 -> 237 -> 146 -> 12
+Custo: 16
+Tempo execução: 0.006608s
+Memória utilizada: 6.64 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 4
+Arquivo: rg300_4730.txt
+Origem: 197
+Destino: 78
+Caminho mínimo: 197 -> 117 -> 181 -> 19 -> 283 -> 78
+Custo: 16
+Tempo execução: 0.007080s
+Memória utilizada: 8.61 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 5
+Arquivo: rg300_4730.txt
+Origem: 27
+Destino: 190
+Caminho mínimo: 27 -> 174 -> 285 -> 152 -> 190
+Custo: 12
+Tempo execução: 0.007083s
+Memória utilizada: 5.89 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 6
+Arquivo: rg300_4730.txt
+Origem: 21
+Destino: 125
+Caminho mínimo: 21 -> 101 -> 123 -> 250 -> 125
+Custo: 20
+Tempo execução: 0.006120s
+Memória utilizada: 5.56 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 7
+Arquivo: rg300_4730.txt
+Origem: 20
+Destino: 127
+Caminho mínimo: 20 -> 56 -> 89 -> 213 -> 127
+Custo: 13
+Tempo execução: 0.007086s
+Memória utilizada: 6.80 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 8
+Arquivo: rg300_4730.txt
+Origem: 137
+Destino: 277
+Caminho mínimo: 137 -> 173 -> 239 -> 48 -> 63 -> 277
+Custo: 23
+Tempo execução: 0.010435s
+Memória utilizada: 10.70 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 9
+Arquivo: rg300_4730.txt
+Origem: 6
+Destino: 96
+Caminho mínimo: 6 -> 23 -> 232 -> 295 -> 210 -> 96
+Custo: 9
+Tempo execução: 0.006083s
+Memória utilizada: 7.98 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 10
+Arquivo: rg300_4730.txt
+Origem: 45
+Destino: 48
+Caminho mínimo: 45 -> 213 -> 127 -> 198 -> 48
+Custo: 10
+Tempo execução: 0.008096s
+Memória utilizada: 5.59 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 1
+Arquivo: rome99c.txt
+Origem: 224
+Destino: 517
+Caminho mínimo: 224 -> 222 -> 223 -> 310 -> 311 -> 313 -> 315 -> 317 -> 322 -> 323 -> 325 -> 331 -> 346 -> 333 -> 351 -> 516 -> 517
+Custo: 14268
+Tempo execução: 0.462250s
+Memória utilizada: 226.80 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 2
+Arquivo: rome99c.txt
+Origem: 2831
+Destino: 1164
+Caminho mínimo: 2831 -> 2619 -> 2617 -> 2577 -> 2392 -> 2391 -> 2384 -> 2387 -> 2344 -> 2342 -> 2330 -> 2329 -> 2326 -> 2325 -> 2321 -> 1873 -> 1858 -> 1856 -> 1852 -> 1851 -> 1849 -> 1818 -> 1824 -> 1174 -> 1172 -> 1822 -> 1167 -> 1165 -> 1162 -> 1161 -> 1163 -> 1164
+Custo: 9711
+Tempo execução: 2.409081s
+Memória utilizada: 227.62 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 3
+Arquivo: rome99c.txt
+Origem: 1792
+Destino: 2596
+Caminho mínimo: 1792 -> 1791 -> 1795 -> 1797 -> 1789 -> 1790 -> 1787 -> 1800 -> 1803 -> 1899 -> 1898 -> 1914 -> 1913 -> 1906 -> 1911 -> 1912 -> 1936 -> 1938 -> 1880 -> 1884 -> 1885 -> 1886 -> 2322 -> 2326 -> 2329 -> 2339 -> 2338 -> 2335 -> 2336 -> 2366 -> 2367 -> 2375 -> 2376 -> 2377 -> 2533 -> 2256 -> 2255 -> 2264 -> 2265 -> 2593 -> 2595 -> 2596
+Custo: 8253
+Tempo execução: 2.247994s
+Memória utilizada: 227.53 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 4
+Arquivo: rome99c.txt
+Origem: 900
+Destino: 2991
+Caminho mínimo: 900 -> 901 -> 983 -> 984 -> 986 -> 985 -> 987 -> 988 -> 1013 -> 1014 -> 1012 -> 968 -> 970 -> 969 -> 962 -> 961 -> 960 -> 1178 -> 1177 -> 622 -> 608 -> 607 -> 605 -> 606 -> 611 -> 612 -> 579 -> 591 -> 592 -> 593 -> 587 -> 586 -> 588 -> 590 -> 654 -> 656 -> 658 -> 659 -> 660 -> 662 -> 672 -> 671 -> 670 -> 668 -> 666 -> 665 -> 3022 -> 3023 -> 3027 -> 3031 -> 3030 -> 3035 -> 3037 -> 2995 -> 2993 -> 2994 -> 2992 -> 2990 -> 2991
+Custo: 26394
+Tempo execução: 1.101299s
+Memória utilizada: 227.78 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 5
+Arquivo: rome99c.txt
+Origem: 2142
+Destino: 3180
+Caminho mínimo: 2142 -> 2143 -> 2162 -> 2163 -> 2170 -> 2172 -> 2188 -> 2189 -> 2375 -> 2380 -> 2381 -> 2382 -> 2383 -> 2384 -> 2393 -> 2362 -> 2363 -> 2435 -> 2441 -> 2442 -> 2462 -> 2484 -> 2485 -> 2488 -> 2489 -> 3187 -> 3186 -> 3189 -> 3197 -> 3180
+Custo: 11341
+Tempo execução: 1.858457s
+Memória utilizada: 227.81 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 6
+Arquivo: rome99c.txt
+Origem: 635
+Destino: 1297
+Caminho mínimo: 635 -> 631 -> 634 -> 629 -> 628 -> 646 -> 1215 -> 1216 -> 1235 -> 1237 -> 1241 -> 1245 -> 1243 -> 1240 -> 1302 -> 1213 -> 1214 -> 1199 -> 1304 -> 1298 -> 1299 -> 1314 -> 1296 -> 1295 -> 1297
+Custo: 5956
+Tempo execução: 1.615389s
+Memória utilizada: 227.16 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 7
+Arquivo: rome99c.txt
+Origem: 2140
+Destino: 924
+Caminho mínimo: 2140 -> 2130 -> 2124 -> 2123 -> 1175 -> 1169 -> 1159 -> 1135 -> 1134 -> 1133 -> 1129 -> 1108 -> 1096 -> 1088 -> 998 -> 992 -> 926 -> 924
+Custo: 6709
+Tempo execução: 1.783285s
+Memória utilizada: 227.50 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 8
+Arquivo: rome99c.txt
+Origem: 80
+Destino: 2770
+Caminho mínimo: 80 -> 81 -> 88 -> 89 -> 90 -> 132 -> 111 -> 209 -> 218 -> 219 -> 240 -> 269 -> 270 -> 275 -> 289 -> 305 -> 306 -> 747 -> 758 -> 780 -> 803 -> 815 -> 2194 -> 2203 -> 2686 -> 2691 -> 2707 -> 2708 -> 2714 -> 2734 -> 2735 -> 2764 -> 2762 -> 2770
+Custo: 37422
+Tempo execução: 0.783517s
+Memória utilizada: 227.28 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 9
+Arquivo: rome99c.txt
+Origem: 1726
+Destino: 2184
+Caminho mínimo: 1726 -> 1727 -> 1725 -> 1723 -> 1698 -> 1701 -> 1706 -> 1705 -> 1828 -> 1832 -> 1836 -> 1842 -> 1862 -> 1853 -> 1851 -> 1852 -> 1855 -> 2313 -> 1857 -> 2315 -> 2317 -> 2318 -> 2149 -> 2156 -> 2169 -> 2170 -> 2171 -> 2182 -> 2181 -> 2185 -> 2183 -> 2184
+Custo: 7187
+Tempo execução: 1.948814s
+Memória utilizada: 227.55 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 10
+Arquivo: rome99c.txt
+Origem: 319
+Destino: 1794
+Caminho mínimo: 319 -> 318 -> 321 -> 330 -> 325 -> 393 -> 396 -> 386 -> 398 -> 400 -> 412 -> 413 -> 525 -> 572 -> 573 -> 576 -> 592 -> 593 -> 625 -> 626 -> 628 -> 646 -> 1215 -> 1216 -> 1235 -> 1237 -> 1250 -> 1251 -> 1256 -> 1257 -> 1258 -> 1352 -> 1358 -> 1363 -> 1362 -> 1379 -> 1380 -> 1424 -> 1427 -> 1734 -> 1738 -> 1741 -> 1747 -> 1749 -> 1791 -> 1792 -> 1794
+Custo: 17069
+Tempo execução: 0.640230s
+Memória utilizada: 226.69 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 1
+Arquivo: USA-road-dt.DC.txt
+Origem: 1606
+Destino: 6957
+Caminho mínimo: 1606 -> 1604 -> 1603 -> 1605 -> 1635 -> 1621 -> 1647 -> 1648 -> 1653 -> 1654 -> 4925 -> 4927 -> 4929 -> 4921 -> 4920 -> 4867 -> 4892 -> 4891 -> 4894 -> 4893 -> 9321 -> 4908 -> 9322 -> 9324 -> 9323 -> 9325 -> 7016 -> 7018 -> 7022 -> 7023 -> 7061 -> 7063 -> 7065 -> 7069 -> 7164 -> 7165 -> 7179 -> 8582 -> 7215 -> 9349 -> 7218 -> 7216 -> 7197 -> 7209 -> 7208 -> 7207 -> 7206 -> 7200 -> 7199 -> 7188 -> 6958 -> 6957
+Custo: 18929
+Tempo execução: 8.683972s
+Memória utilizada: 654.77 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 2
+Arquivo: USA-road-dt.DC.txt
+Origem: 1581
+Destino: 5935
+Caminho mínimo: 1581 -> 1589 -> 1591 -> 1689 -> 1692 -> 1695 -> 1711 -> 1713 -> 1708 -> 1726 -> 1710 -> 1728 -> 1730 -> 1775 -> 1779 -> 1768 -> 1769 -> 1773 -> 1772 -> 1794 -> 1795 -> 1796 -> 1799 -> 1800 -> 1801 -> 1806 -> 1808 -> 1810 -> 2660 -> 2661 -> 2663 -> 2675 -> 2678 -> 2721 -> 2729 -> 2739 -> 2744 -> 2747 -> 2922 -> 2945 -> 2946 -> 2951 -> 2956 -> 3002 -> 3018 -> 3019 -> 3021 -> 5469 -> 5472 -> 5445 -> 5447 -> 5480 -> 5482 -> 5483 -> 5486 -> 5504 -> 5505 -> 5506 -> 5507 -> 5552 -> 5553 -> 5557 -> 5611 -> 5612 -> 5614 -> 5623 -> 5625 -> 5624 -> 5631 -> 5632 -> 5638 -> 5693 -> 5695 -> 5705 -> 5709 -> 5708 -> 5707 -> 5706 -> 5944 -> 5935
+Custo: 15162
+Tempo execução: 8.228607s
+Memória utilizada: 655.41 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 3
+Arquivo: USA-road-dt.DC.txt
+Origem: 143
+Destino: 2505
+Caminho mínimo: 143 -> 141 -> 150 -> 152 -> 1500 -> 154 -> 1519 -> 1518 -> 1619 -> 1620 -> 1621 -> 1641 -> 1642 -> 1645 -> 1630 -> 1660 -> 1632 -> 1633 -> 1661 -> 1663 -> 1669 -> 1671 -> 1674 -> 2049 -> 2055 -> 2081 -> 2083 -> 2097 -> 2659 -> 2660 -> 2661 -> 2662 -> 2665 -> 2667 -> 2683 -> 2686 -> 2689 -> 2690 -> 2692 -> 2695 -> 2770 -> 2772 -> 2773 -> 2777 -> 2782 -> 2784 -> 2796 -> 2814 -> 2816 -> 2805 -> 2811 -> 2810 -> 2807 -> 2809 -> 3093 -> 2505
+Custo: 14782
+Tempo execução: 8.215620s
+Memória utilizada: 654.53 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 4
+Arquivo: USA-road-dt.DC.txt
+Origem: 7527
+Destino: 4255
+Caminho mínimo: 7527 -> 7558 -> 7553 -> 7555 -> 7554 -> 7534 -> 7532 -> 7533 -> 7754 -> 7755 -> 7616 -> 7612 -> 7608 -> 7598 -> 7596 -> 7595 -> 7592 -> 7228 -> 7227 -> 7226 -> 7225 -> 7221 -> 9349 -> 7215 -> 8582 -> 7179 -> 7165 -> 7164 -> 7069 -> 7065 -> 7063 -> 7061 -> 7023 -> 7022 -> 7018 -> 7016 -> 9325 -> 9323 -> 9324 -> 9322 -> 4908 -> 9321 -> 4893 -> 4894 -> 4891 -> 4886 -> 4851 -> 4852 -> 4838 -> 4833 -> 4834 -> 4782 -> 4764 -> 4765 -> 9354 -> 4762 -> 4761 -> 4745 -> 4744 -> 4742 -> 4732 -> 4730 -> 4731 -> 4729 -> 4726 -> 4725 -> 4252 -> 4251 -> 4247 -> 4248 -> 4253 -> 4219 -> 4225 -> 4254 -> 4255
+Custo: 10252
+Tempo execução: 17.822334s
+Memória utilizada: 653.03 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 5
+Arquivo: USA-road-dt.DC.txt
+Origem: 7983
+Destino: 3640
+Caminho mínimo: 7983 -> 8032 -> 8033 -> 7998 -> 8027 -> 8028 -> 8048 -> 8049 -> 8056 -> 8057 -> 8059 -> 8070 -> 8068 -> 8067 -> 1438 -> 1437 -> 1442 -> 1444 -> 2302 -> 2311 -> 2314 -> 2321 -> 2323 -> 2325 -> 3767 -> 2315 -> 3755 -> 3756 -> 3751 -> 1447 -> 1446 -> 3640
+Custo: 16939
+Tempo execução: 18.350677s
+Memória utilizada: 654.88 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 6
+Arquivo: USA-road-dt.DC.txt
+Origem: 8276
+Destino: 4009
+Caminho mínimo: 8276 -> 8275 -> 8271 -> 8251 -> 8080 -> 8079 -> 8078 -> 9403 -> 9402 -> 2604 -> 2559 -> 2605 -> 2578 -> 2579 -> 2626 -> 2582 -> 2586 -> 2588 -> 2590 -> 2591 -> 2640 -> 4007 -> 4044 -> 4009
+Custo: 14062
+Tempo execução: 11.233290s
+Memória utilizada: 654.62 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 7
+Arquivo: USA-road-dt.DC.txt
+Origem: 4828
+Destino: 1980
+Caminho mínimo: 4828 -> 4998 -> 4993 -> 4968 -> 4967 -> 4958 -> 4955 -> 4815 -> 4956 -> 4962 -> 4966 -> 4974 -> 4977 -> 4978 -> 988 -> 989 -> 990 -> 1025 -> 1026 -> 1031 -> 1032 -> 1979 -> 1981 -> 1980
+Custo: 16323
+Tempo execução: 15.338637s
+Memória utilizada: 654.11 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 8
+Arquivo: USA-road-dt.DC.txt
+Origem: 8091
+Destino: 6077
+Caminho mínimo: 8091 -> 8090 -> 7281 -> 7277 -> 7279 -> 7278 -> 7272 -> 7269 -> 7265 -> 7270 -> 7250 -> 7249 -> 7257 -> 7248 -> 7245 -> 7244 -> 7241 -> 7236 -> 7235 -> 7234 -> 7233 -> 9556 -> 9555 -> 5722 -> 5729 -> 5726 -> 5748 -> 5560 -> 5750 -> 5759 -> 5757 -> 5756 -> 5657 -> 5655 -> 5653 -> 5654 -> 5659 -> 5669 -> 5665 -> 5666 -> 5667 -> 5670 -> 5693 -> 5694 -> 5698 -> 5699 -> 6077
+Custo: 18139
+Tempo execução: 18.454518s
+Memória utilizada: 655.28 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 9
+Arquivo: USA-road-dt.DC.txt
+Origem: 8106
+Destino: 7051
+Caminho mínimo: 8106 -> 8095 -> 8094 -> 8087 -> 8086 -> 8085 -> 8082 -> 7284 -> 7967 -> 7121 -> 7120 -> 7115 -> 7114 -> 7111 -> 7107 -> 7108 -> 7116 -> 7240 -> 7239 -> 7244 -> 7241 -> 7236 -> 7235 -> 7234 -> 7233 -> 9556 -> 7230 -> 7172 -> 7169 -> 7166 -> 7164 -> 7161 -> 7137 -> 7134 -> 7053 -> 7050 -> 7048 -> 7051
+Custo: 7216
+Tempo execução: 18.494809s
+Memória utilizada: 656.47 KB
+---------------------------------------
+Algoritmo de Bellman-Ford - Execução 10
+Arquivo: USA-road-dt.DC.txt
+Origem: 4620
+Destino: 2651
+Caminho mínimo: 4620 -> 4618 -> 4615 -> 4606 -> 4541 -> 4521 -> 4522 -> 4527 -> 4520 -> 4519 -> 9541 -> 9540 -> 4506 -> 4378 -> 4375 -> 4363 -> 4360 -> 4359 -> 4323 -> 4295 -> 4292 -> 4290 -> 4286 -> 4284 -> 3283 -> 3279 -> 3262 -> 3258 -> 3257 -> 3253 -> 2655 -> 2654 -> 2651
+Custo: 5434
+Tempo execução: 17.084584s
+Memória utilizada: 655.66 KB
+---------------------------------------
